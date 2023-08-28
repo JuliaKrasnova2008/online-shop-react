@@ -28,7 +28,7 @@
 ## Инструкция по установке
 
 1. Клонировать репозиторий: git clone
-   `git@github.com:JuliaKrasnova2008/kode-company-employee.git`
+   `git@github.com:JuliaKrasnova2008/online-shop-react.git`
 2. Установить зависимости:
    `npm i`
 3. Запустить приложение:
