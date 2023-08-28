@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Online shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Разработан интернет магазин на основе библиотеки React. Магазин, в котором можно просматривать подробную информацию по товарам, формировать корзину, редактировать её и делать многие другие действия.
 
-## Available Scripts
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=3456F3&multiline=true&width=500&height=30&lines=%D0%92%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B0+%D0%B8+JSX)](https://git.io/typing-svg)
 
-In the project directory, you can run:
+- HTML5
+- CCS3
+- адаптивная верстка (мобильные устройства, планшеты, десктопы)
+- создание компонентов на React
+- flexbox
+- grid Layout
+- позиционирование
+- псевдоклассы
+- БЭМ
 
-### `npm start`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=3456F3&multiline=true&width=500&height=30&lines=%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C+%D0%BD%D0%B0+%C2%ABReact%C2%BB+%D0%B8+JS)](https://git.io/typing-svg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- JavaScript (стандарт ES6)
+- React (Create React App, портирование разметки в JSX)
+- Redux
+- API
+- JWT
+- Реализованы асинхронные GET- и POST-запросы к API
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[Ссылка на приложение ](https://online-shop-f9eb7.web.app/)
 
-### `npm test`
+## Инструкция по установке
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Клонировать репозиторий: git clone
+   `git@github.com:JuliaKrasnova2008/kode-company-employee.git`
+2. Установить зависимости:
+   `npm i`
+3. Запустить приложение:
+   `npm run start`
+4. Запустить сервер с hot-reload:
+   `npm run dev`
